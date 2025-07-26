@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrim_tub_docs_release=self.webpackChunkrim_tub_docs_release||[]).push([[8401],{5194:(e,s,r)=>{r.d(s,{A:()=>n});r(6540);var u=r(2057),c=r(4848);function n(e){return(0,c.jsx)(c.Fragment,{children:(0,c.jsx)(u.A,{...e})})}}}]);
